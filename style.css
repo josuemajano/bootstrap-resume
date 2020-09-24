@@ -1,4 +1,18 @@
+.container-fluid {
+    background-color: lightgray;
+}
+
 .jumbotron {
     text-align: center;
     margin: 5%;
+}
+
+.contact-info {
+    text-align: center;
+    margin: 5%;
+}
+
+.socialmedia {
+    text-align: center;
+
 }
